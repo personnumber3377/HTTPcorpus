@@ -1,0 +1,5 @@
+POST /r.bin HTTP/1.1
+Host: U
+Content-Type: application/vnd.oasis.opendocument.image
+
+cLRRKYiMvsywGyCPlwEhDISkPYCPgJUFUjZEonLYsMkkJBCmRoIKYWiRIukbmvEJcahVRlhfIWCsvPtzlRgltUNEjFdrXpkncuHuW

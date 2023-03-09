@@ -1,0 +1,6 @@
+POST /s?k=kr HTTP/1.1
+Host: g
+Content-Type: application/vnd.cosmocaller
+Cache-Control: no-cache
+
+MhRhwapiLSeuDGyHWtvMnTuYKZrjsFkTflNdQnqQeGovtfcfHjwEShJTfEhLdnIRixVeKeNixZRIAaaHskuqfaVKnpWoILxtqiZqRFasYMK

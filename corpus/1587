@@ -1,0 +1,7 @@
+PUT /ut HTTP/1.1
+Host: E
+Content-Type: application/vnd.mobius.dis
+Content-Encoding: deflate
+TE: deflate, trailers
+
+CkeZuldXsPYFLfrMJDTAgnOeyvvbShZeHZGNgyOssiysqgrmqxsrStoAXKRrVKsVQbKaunXROBrXltfguYkBdEbclyfTrUvTgNJoSSntwUZvb

@@ -1,0 +1,6 @@
+PUT /lv HTTP/1.1
+Host: p
+A-IM: feed, gdiff
+Content-Encoding: identity
+
+BJgEnokJEivHPtJxvyIycWdsNcrYQhLexmShaKpRnZnnFUXVrvqinEMBggypgwtWXaxyUezOLitXdDnQwSufeYOkMCYtXSUyFJxTjnJkZRZPoILESAphThZgxjrrbXDPvDperbP

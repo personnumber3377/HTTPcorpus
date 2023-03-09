@@ -1,0 +1,7 @@
+POST /uk HTTP/1.1
+Host: S
+Host: g
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+A-IM: feed
+
+MsZmDItfQOiSQQIbbDuDKjmuMLOdvsdkUtsJKTAxMra

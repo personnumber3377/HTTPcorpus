@@ -1,0 +1,7 @@
+GET /bc?li=MO HTTP/1.1
+Host: z
+From: a@b.com
+TE: chunked
+Accept: x-conference/x-cooltalk
+
+nocRVKTErebikRvcwDSqPJfioAzkkjZziYliWFbeboWLWbrCcXRHcsThhMBPbqnjioVCndkTtw

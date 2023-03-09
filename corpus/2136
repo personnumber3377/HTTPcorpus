@@ -1,0 +1,7 @@
+GET /b.pdf?dP=j&z=G HTTP/1.1
+Host: no-cache
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Content-MD5: 2Aq7mJJVaueX/zNXynPkKA==
+Access-Control-Request-Method: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
+
+erIcXZSLSpsGLXmfIvciJVkiiUTvFMpuOiLsFEqMENo

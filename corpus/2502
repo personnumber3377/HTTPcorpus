@@ -1,0 +1,6 @@
+PUT /h?S=F HTTP/1.1
+Host: t
+Accept-Encoding: br, gzip, identity, deflate
+Content-Type: image/x-xbitmap
+
+GvoZcXQUES

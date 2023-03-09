@@ -1,0 +1,6 @@
+GET /j?Rf=q HTTP/1.1
+Host: f
+Trailer: header-names
+Date: Tue, 15 Nov 1994 08:12:31 GMT
+
+wU

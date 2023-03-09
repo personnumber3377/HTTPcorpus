@@ -1,0 +1,7 @@
+PUT /lv HTTP/1.1
+Host: S
+Trailer: header-names
+Access-Control-Request-Method: PUT
+Upgrade: foo/2
+
+girooMipFFsTTOhLHozSVgXTEOvyxqwKERNbwrFOVgYdOzyTPuNVoqaneYhzlTBpksvuAcTDLm

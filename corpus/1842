@@ -1,0 +1,7 @@
+PUT /sl?P=m&yc=mP HTTP/1.1
+Host: Z
+TE: compress, trailers
+Upgrade: foo/2
+Upgrade: foo/2
+
+ALoyps

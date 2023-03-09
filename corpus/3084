@@ -1,0 +1,5 @@
+POST /ut?Nv=p&MJ=Ga HTTP/1.1
+Host: b
+Upgrade: foo/2
+
+avkNyjDekdYfTtbTiV

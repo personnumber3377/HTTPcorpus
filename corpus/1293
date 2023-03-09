@@ -1,0 +1,7 @@
+GET /na.txt HTTP/1.1
+Host: m
+Content-Type: application/vnd.geospace
+Range: bytes=28:75, bytes=83:101
+Accept-Encoding: en-US
+
+kdksJiwykbqeYTkCQTDpPcpxVysmTpeZHHCvCQgkPHJTjYXiOHrPuLynCulFLjbCdTErcgyPVegUTEkGAMjZVdPZPcKUjHzFnkjYbXrvdhItoIpISTebeVDmrahNZaFnI

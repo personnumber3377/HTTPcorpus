@@ -1,0 +1,6 @@
+PUT /t?ur=Ct HTTP/1.1
+Host: a
+Content-Encoding: deflate
+Content-Type: application/vnd.kde.karbon
+
+IDzGxvvwHTZHHqkgzyIedupCdWfnmXAvsiisUnoeLNgQzkHzcLltmcjfCagfYOdnaCOaBjMUYWAAouloMtsfcigDkDWhaGVEnLlYLETKukJVZXkfnVBLGavtIWLPZMnvTYKmxEHrTGSeHcpFkxYDuDcCZrIEvRMUXkKrLWyKQCTyALSZzqHdil

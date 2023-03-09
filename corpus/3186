@@ -1,0 +1,7 @@
+POST /p.html?lC=B HTTP/1.1
+Host: v
+Access-Control-Request-Method: GET
+Accept-Language: fr
+Connection: close
+
+fQLUtYjwXffYcSNlzJwdZOIsuhhPMBEyIZWqTBmUggeOvxSVVFlez

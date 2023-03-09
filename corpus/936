@@ -1,0 +1,7 @@
+PUT /d?p=n&U=iX HTTP/1.1
+Host: no-cache
+Range: bytes=93:114
+Accept-Charset: iso-8859-5
+User-Agent: Sat, 29 Oct 1994 19:43:31 GMT
+
+UXzuUEyWWChVWEXneHUmUmegVYiSTygrSeYdieewmJSBYHMNJbaNNdRdBDqrFlbCWxrjPmRWOlhdVgHnRurRLRykgKtyEJFtAJzmAdraVScQnNIujPogeAg

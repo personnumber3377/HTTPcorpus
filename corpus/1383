@@ -1,0 +1,6 @@
+POST /zi HTTP/1.1
+Host: I
+From: a@b.com
+Content-Encoding: deflate
+
+WzeCMALJBDMMAvTGOSnPBCnkbcxuCSwAItdGsgpFiLAPYFpM

@@ -1,0 +1,5 @@
+PUT /kc?Cr=h HTTP/1.1
+Host: F
+Content-Encoding: gzip
+
+StaIhHVABsTJyzeptnovFYEGWxKefrKvtjLqYCgouMzRRqnygIRTfjzXoPoDwNHVuLctxPmfMjkXiiRzHlbetQVBtLggSA

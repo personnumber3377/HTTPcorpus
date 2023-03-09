@@ -1,0 +1,6 @@
+PUT /uk?Aw=r HTTP/1.1
+Host: D
+Range: bytes=23:51
+Accept-Encoding: identity
+
+VrkFQdLUFvpDuEJQkFfWENnjNCQrEsPTJYHzaUsmTnEVVMcTBpSKVSkFdpRwOtwbIRdnjfwAM

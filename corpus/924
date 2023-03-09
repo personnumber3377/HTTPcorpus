@@ -1,0 +1,5 @@
+POST /sw.txt?k=Hw HTTP/1.1
+Host: Y
+Content-Length: 25
+
+ijMNjtKCHBiOeepOnCEIyeBXt

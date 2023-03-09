@@ -1,0 +1,7 @@
+PUT /em.png HTTP/1.1
+Host: U
+Trailer: header-names
+Content-Encoding: gzip
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+NPVPAbXJCRWZRDBBQQflwOUUgWbTrGViZUayFxNYOCkBcjKRoGBQomIevNItOeHyKIoXJIuTpYKmoDrHMUXVaTJyuGeHtmbRjyiHTFMyywBoPIfcXSaCtSrUjjVGRBMtDsDqgjfPrCAZPEnrCVQKVIKsUgYhbkEiMCdIOiKARdzjBEbsVpQBqknbXFKwFCFhlNF

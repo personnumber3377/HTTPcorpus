@@ -1,0 +1,7 @@
+GET /na.txt?w=sg&M=ue HTTP/1.1
+Host: v
+Access-Control-Request-Method: PUT
+Content-MD5: D29TDde+8cDxUqr5423eEA==
+Expect: 100-continue
+
+OEoxkiJrSJhIfXUZJasZISdLYOERyqeuxpEwgZWhtPiEjcqvIzWlqSFcyWkFlzwjITgcOYYOaFgqUcgkfOlwIJcnlXOBlILuPbclbyXOjlgnpXaVutZxF

@@ -1,0 +1,7 @@
+PUT /of?Tp=qt HTTP/1.1
+Host: S
+Referer: en.wikipedia.org:8080
+Access-Control-Request-Headers: A-IM, Accept, Accept-Charset, Accept-Datetime, Accept-Encoding, Accept-Language, Access-Control-Request-Headers, Access-Control-Request-Method, Authorization, Cache-Control, Connection, Content-Encoding, Content-Length, Content-MD5, Content-Type, Cookie, Date, Expect, Forwarded, From, Proxy-Authorization, Range, Referer, TE, Trailer, Transfer-Encoding, Upgrade, User-Agent, Via, Warning, Host
+Content-MD5: Ic0jdNfvwnwXx/J03T2ueQ==
+
+dhwJpNPMKIhQ

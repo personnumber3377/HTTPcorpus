@@ -1,0 +1,7 @@
+PUT /bc?fj=KW HTTP/1.1
+Host: M
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Content-Type: model/vnd.vtu
+Range: bytes=107:116, bytes=125:130
+
+uHOlFIuKjnXcOPcRNeOnhaprScihQUtpkPNfODzEAkxcucMTKgQqsBkVYRAdWVGuSevTADQMMjWkTHibohnRokBxaceAttMRdAzqnXDuHfoeuTSTqVXbDKqPCYjricKYUBIRw

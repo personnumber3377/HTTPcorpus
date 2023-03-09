@@ -1,0 +1,6 @@
+GET /kn?g=x&k=CF HTTP/1.1
+Host: z
+Accept: application/vnd.sema, application/vnd.quark.quarkxpress
+Cache-Control: no-cache
+
+QysnlPZfakrFajryyrzEegPsaZfQkluEDFInDTyoUWSEdmjQe

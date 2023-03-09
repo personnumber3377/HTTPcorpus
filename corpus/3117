@@ -1,0 +1,7 @@
+PUT /x?qA=O HTTP/1.1
+Host: C
+Cache-Control: no-cache
+Accept-Encoding: gzip, compress, identity
+Host: M
+
+PHHJDapIAnVfgbNyiyzYquhMpfXeOPftoEuuUVheLQZJTo

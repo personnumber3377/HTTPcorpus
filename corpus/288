@@ -1,0 +1,7 @@
+GET /j.png?p=at&Rm=gI HTTP/1.1
+Host: no-cache
+Accept: application/cdmi-domain
+Connection: close
+Accept-Datetime: Thu, 27 Nov 1980 19:03:18 GMT
+
+RPYGCvVDiTwUvURHyuUnXWKsUIXzmLSSYzvHdXUACLrkvyEqtSLKlxsuvNOslBdVdbXIzIFwNJmCpvNyBULTvAGpvQvtsrnOTEeFndKotAjX

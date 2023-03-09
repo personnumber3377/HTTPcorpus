@@ -1,0 +1,7 @@
+PUT /oh?HT=s&AC=Dj HTTP/1.1
+Host: d
+From: a@b.com
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Date: Fri, 10 Mar 2023 00:45:04 GMT
+
+YoIcAtrNNMjyptvAkUDPSsimtuktBcxITsOCeENOsJtCMHvOaZBxbPckJboXAVMbnhuwEpkPtGlNToQQYEPebaLsCzZaDDRhQHanbFJTLPHluCMHQrVDkAoCnhDvdaFmfjlbRfKXHHDgTAzZDkDqAovvXExFxmmRgV

@@ -1,0 +1,6 @@
+PUT /ub.pdf?B=PS&JA=bX HTTP/1.1
+Host: c
+From: a@b.com
+Content-Encoding: gzip
+
+RmzczqdLBTlGSJiVHAyyvCMgocWSzcePoFBUCqPpMuFStjvhbZbHiyATlHypusZbFETXkiIPJacxreTWcaGtRVgYVwVCbUGfKUbLjYONRBTQobrPISpbADxZVtPLgmXjycrzdHbAHPLwtHjqQO

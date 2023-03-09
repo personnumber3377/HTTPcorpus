@@ -1,0 +1,7 @@
+PUT /yd?T=eS&d=Ht HTTP/1.1
+Host: A
+Access-Control-Request-Method: GET
+Trailer: header-names
+Accept-Datetime: Tue, 08 Oct 1991 09:01:41 GMT
+
+HQXekuvNfgIVfhiTLhTbVQSrfCPwsyZbaUKRmbnlNwlfYhwIVwrqoRoAPyZCHVEpyDGfXvsmqIfEWBQGJQtWEitWSkgPqECQVYounkbz

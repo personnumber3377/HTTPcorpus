@@ -1,0 +1,7 @@
+GET /b.png HTTP/1.1
+Host: v
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Content-MD5: Q2hlY2sgSW50ZWdyaXR5IQ==
+
+aHgbZpkjATPQzYFieqQSatenhTGRDOxFJVPNbYsGshqUxLncBDROhWVZkWnlGRuiUbcRPYrkpDUdhMGgArKC

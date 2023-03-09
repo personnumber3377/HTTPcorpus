@@ -1,0 +1,6 @@
+POST /bc?A=PI HTTP/1.1
+Host: V
+Connection: close
+Content-Type: application/vnd.curl.pcurl
+
+LjfgTDBAaNvvWIVyUZfVnqITIFHLPAvimtzkYvUyAaazxaFgkFsHWYFlFtdSQedGUqhFGpxrEwWCqZSZjKjnzvVyBsmQWSbbXosnITPQPssBZiDRAZEWNmaniLkkKEccsEHVGYzEuDmOkCnLXeyHOgTgFXlhzMiiRveXes

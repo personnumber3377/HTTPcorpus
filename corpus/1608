@@ -1,0 +1,6 @@
+GET /oh?g=bf&x=YK HTTP/1.1
+Host: O
+Expect: 100-continue
+Range: en.wikipedia.org
+
+CQjWjExJKP

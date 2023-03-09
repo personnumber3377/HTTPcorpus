@@ -1,0 +1,5 @@
+GET /km HTTP/1.1
+Host: o
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+liFRRrToIRnyhbnVCbjCKCq

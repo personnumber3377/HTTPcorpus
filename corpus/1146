@@ -1,0 +1,6 @@
+PUT /cp HTTP/1.1
+Host: Z
+TE: gzip, chunked
+A-IM: gdiff, vcdiff
+
+gaaJVdnjQBnCcbPwJWhQysspVrLWDsIrRJUDqqpDAZLGnRiTseXBFPiXrKUhSARIVUVryNXvCgClZrBHUvTayKTMLXgJwlhRkOjgIVknYHLmhizZuBvgZocDrrdtmFXuWpfaoNMTtFYzlDBNvuGdTICAkqeogCSTrYUevHEELiDs

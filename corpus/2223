@@ -1,0 +1,7 @@
+GET /a?wn=S&Cf=nl HTTP/1.1
+Host: A
+Range: bytes=152:161
+Access-Control-Request-Method: GET
+Content-Type: application/x-dtbresource+xml
+
+NGcXHemnkLRamdehPYESdTAYcIJRznfOEEJtsxPpZMwUTdDaHqbvJgxzlnwvuMoxVsjTHtKskGVgdkDKyXPjFZwbejrBFLWnmRAldRPGIMXkwvlFWmPinCSAuKsVLydXwSggjrGtkTfODjPskLZOuEAyakNeYpwoaHDbGQtuvGfNKjtXuZRVEnQAcmdYj

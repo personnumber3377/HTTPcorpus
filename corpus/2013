@@ -1,0 +1,6 @@
+POST /em.png?r=H&c=lN HTTP/1.1
+Host: P
+Upgrade: foo/2
+Accept-Encoding: gzip, br
+
+JqolKNKPBYDTuaBKobJcjPzaoICljslPEmtzzFhkukqadIJCkcMcph

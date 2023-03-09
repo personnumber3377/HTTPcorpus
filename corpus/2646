@@ -1,0 +1,6 @@
+GET /f HTTP/1.1
+Host: r
+Host: no-cache
+Content-Type: application/vnd.mobius.mbk
+
+eDzkJPCoEMrJJTNOtIYgvEEaROuGzUodOBdtCMmaOsXXZqAFvYYBpFybHrinyWATnFaHHwesmQCSURvaCEpPurLiPqjbmwzKNNkvqIeLELYTijkVeIvCEQZcZpZpQqMeWhnILPFJORgjdfzntoDUljYpBINovgNiXHAtiSLrmHCOrCOOHrdmpaOuWgLUnYxyGN

@@ -1,0 +1,5 @@
+PUT /l?ws=m&u=zf HTTP/1.1
+Host: b
+Content-Type: application/vnd.fujixerox.ddd
+
+WrPxOHLWNAkeTrqUzkgQ

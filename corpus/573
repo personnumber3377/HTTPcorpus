@@ -1,0 +1,6 @@
+GET /cp HTTP/1.1
+Host: v
+Range: en.wikipedia.org
+Accept-Charset: iso-8859-5
+
+iBFNpYqQuwbMvyIexddsHEUFeUK

@@ -1,0 +1,6 @@
+GET /xv?mr=B&wq=z HTTP/1.1
+Host: S
+Cache-Control: no-cache
+Accept: application/vnd.smaf
+
+ZryADhvTmrPJWIEaSAXANzUcwI

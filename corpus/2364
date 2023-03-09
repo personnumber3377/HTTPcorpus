@@ -1,0 +1,7 @@
+GET /z HTTP/1.1
+Host: j
+Accept: application/x-font-ghostscript, application/vnd.ms-xpsdocument
+Accept-Charset: iso-8859-5
+Trailer: header-names
+
+gaeVNXnPCqYfDBLRYODJDbiRALvfKSsZkHfwFPgwtUFlIRvkVnxTRQdvjywVdKViyRbfqNWOqZyGVOGUFiDCEoTO

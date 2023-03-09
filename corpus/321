@@ -1,0 +1,6 @@
+GET /t?jq=lZ HTTP/1.1
+Host: no-cache
+Content-Length: 83
+Accept: video/x-ms-asf, text/n3, application/vnd.mobius.msl, application/vnd.intu.qbo
+
+BfaPUShVolxzmxckacMUDMqstrcjMRxnnrdljMNIRUtkTJgOWzWxqNktiKZSmTPzcYQVneUTNKtrZgPTSso

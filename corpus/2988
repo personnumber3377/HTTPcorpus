@@ -1,0 +1,7 @@
+GET /p.html?I=L HTTP/1.1
+Host: M
+From: a@b.com
+Content-Encoding: gzip
+Access-Control-Request-Method: GET
+
+zykvcIrUzlcFmyN

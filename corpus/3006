@@ -1,0 +1,7 @@
+GET /z HTTP/1.1
+Host: F
+Content-Length: 53
+TE: deflate
+Accept-Datetime: Fri, 03 Feb 1995 04:40:10 GMT
+
+LWqWfzhxdGIZBjwHwyyPWhAcJIKEOUoLQiMjRBiZfRNTNllhIszPt

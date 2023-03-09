@@ -1,0 +1,7 @@
+PUT /qw.txt?U=y&U=e HTTP/1.1
+Host: P
+Upgrade: foo/2
+Access-Control-Request-Method: GET
+Accept-Encoding: identity, br
+
+vBbvfccUAMaqhlxSjDcvkPogpUAydqQEFiFhVHxWGplAQqBOISGEIukTIEUAjWGlEfzOsTItayoJXmYyfDsnUEsvGMKrlrSzBZxVQoUQBX

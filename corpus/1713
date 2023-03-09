@@ -1,0 +1,7 @@
+POST /ub.pdf?pH=j HTTP/1.1
+Host: S
+Range: bytes=71:147, bytes=147:150
+Cookie: mn=u;FJ=p;tR=t
+Accept-Datetime: gzip, deflate
+
+HlsSnKyaAcDCPbeOEcHCPZsEWMlhOjZCxBFBkJJUybcwPVifSvmmiRKOUCdrkhXIYQRwtjZxnOGntgnCmtNaPoghvvORlZqiumoRYvpxHfitwLemOqGvJULluMIhbXITnZJkWmTplgXXswBOgwHoZlkuxz

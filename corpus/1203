@@ -1,0 +1,5 @@
+GET /qw.txt HTTP/1.1
+Host: no-cache
+From: a@b.com
+
+izBqvygsPGGkYZOZDBmVfWyhXLogfxL

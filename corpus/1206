@@ -1,0 +1,5 @@
+GET /b.pdf?T=AY HTTP/1.1
+Host: g
+Accept-Encoding: compress
+
+wOSAWIPWlxFPmUTVJLEkmkAwROvsonTmnPPcQgDeCHluVANbAxuYoHiaRaryGeWOySWIGilHrOaiCSCBmDonZdLBNFhKAHdWvFhLFCHRQNsKRcYwDdUuHOLtAhyVMhaYQKoiYrWJSjubLYebfpFFFBcrLGAqCpSZpJree

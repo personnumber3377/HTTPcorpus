@@ -1,0 +1,7 @@
+GET /c?k=f&kD=Ci HTTP/1.1
+Host: a
+Accept-Charset: iso-8859-5
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+
+GIUaTvaGMOJsYNrAKbxSUIRWvlOavfVTXGKCXdDlvaxPHPMDlXgqIsAYTib

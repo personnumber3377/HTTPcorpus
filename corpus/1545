@@ -1,0 +1,6 @@
+GET /ax?MQ=e HTTP/1.1
+Host: o
+Access-Control-Request-Method: POST
+Referer: http://127.0.0.1:8080/a?q=124214221214
+
+NDMBjRmNjUqtwenhPfdiAfpeaRhLTGGYiMXUxvUHUvplBVDMtbcezZJlTBPWSZUxDZSkPDLwLYKNPBYmcYpxwtuGkjTeyediRXFPHyrXZLcxVRHZHlycZPYnluSHmEcMwIKLxcherRoPxHZxOvscoCvRhK

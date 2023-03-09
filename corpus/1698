@@ -1,0 +1,6 @@
+POST /oq HTTP/1.1
+Host: f
+Accept: application/vnd.tmobile-livetv, application/vnd.acucobol, application/vnd.fluxtime.clip, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+Accept-Charset: iso-8859-5
+
+BkhOuMUsmkmBgbuOcOySdszJcPipJFsTEwwoNRanHuaOmLJeJwTSySGCiIsfIWdSIBRcqDPSPhUgugLIlaMJiiuJUKbuDIteTVPFjEituAbXiUWSRMvbRPckNOiuNfihKOBqelZturkOyhjEKmkuWlJWokABESfFNcBCZpsxfzZxoRhyCANuMyaenTPEIyrdiOLR

@@ -1,0 +1,7 @@
+PUT /yd HTTP/1.1
+Host: Y
+Content-Type: model/iges
+Accept-Charset: iso-8859-5
+Content-Length: 155
+
+SdRVshijrmSpLAQcvIbOTxpMILksBFECkVzQpEkKRzNZLVFJLuydoYPSriYTMRdrpiAzZQpffRNmZCqXJcZdowIWJQDxQVJEsYEYyWTjwrPSlNjExLbXFLcYuyBluMsvtYbSYhzNMAXQcPbHsJNkkihjKck

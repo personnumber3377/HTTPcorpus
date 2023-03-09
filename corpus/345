@@ -1,0 +1,7 @@
+GET /j.png HTTP/1.1
+Host: V
+From: a@b.com
+Cache-Control: no-cache
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+CPjYwUkGCkruioYgUitrlbYaEdunTbvRkoxuGieNXjUzhKBVAPfhYFKaRPaJNqsXLJbHaNnzTrKVIwpPCjEsTAOmNDQbXmNbRiZUoguFZlmsRxDpVldLbJTuCrfzBJkQtDdkdlvCytKGoSKyPJZWLTCqtnFBqzGipFKwCfYSKPlJxoVtttPUaRnmxgtzPDaXc

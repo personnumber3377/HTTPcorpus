@@ -1,0 +1,7 @@
+GET /uk?x=Xb HTTP/1.1
+Host: q
+Cookie: Cv=yl
+Cache-Control: no-cache
+Upgrade: foo/2
+
+cMrTMfmEGeZKpZByLZWYONOhIn

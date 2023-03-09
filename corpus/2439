@@ -1,0 +1,7 @@
+POST /vi.html HTTP/1.1
+Host: no-cache
+A-IM: vcdiff, feed
+Trailer: header-names
+Accept: application/davmount+xml, application/vnd.ms-powerpoint.addin.macroenabled.12, application/vnd.seemail, application/vnd.rim.cod
+
+NndpCpHGhIUChEYKoXmQMAmnENRXFyaxplosITQEIhwYkCoOFrCaEBIasruqIeQrnnZRCOfptDofqIjteiSJqsBMMNeNGjsUvPsrJeQXyvwXmUXkCVRrIomrvHYtpzeWcvoMdWTQPzRhdlxoVgtoaItxbBZFWbldScQovToAOUxpTZoNwOKWhXejZDvzaN

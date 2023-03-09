@@ -1,0 +1,6 @@
+PUT /se HTTP/1.1
+Host: p
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Cookie: $Version=1; Skin=new;
+
+wDyLniGJUhhciToDhzqoytwmWkfGzVvGFDVbpAzeXQjzKaorPoEGPPISUKPKZsfRuFnDLVkDKEA

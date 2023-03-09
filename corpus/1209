@@ -1,0 +1,6 @@
+PUT /nn.png?S=Ht&pX=g HTTP/1.1
+Host: no-cache
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+WwYeqBzSfKoJMeJzsynuqYsINbvNUcoFsHrxDRaGTQkdcbWdIvCk

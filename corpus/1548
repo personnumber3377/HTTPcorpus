@@ -1,0 +1,7 @@
+GET /lt HTTP/1.1
+Host: no-cache
+Accept-Charset: Thu, 31 May 2007 20:35:00 GMT
+Upgrade: foo/2
+Accept-Datetime: gzip, deflate
+
+pbeAhqwHSlshXwXIvyfxptQwCyjwGLuLdUGOWRngiaigsnTsmUBUmEfQZXMtDHZCHOHUwEKLqrMWEplPnLzAOMAnZZHQaOLuqhOKFjaoyoshDpjwnHEqYAsPOyqAaUKvrQSBgmJEiDwErAMhnsHKMSTNmmrNNOvqexGItcttqg

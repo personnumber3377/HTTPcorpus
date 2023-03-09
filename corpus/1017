@@ -1,0 +1,6 @@
+PUT /w HTTP/1.1
+Host: b
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept: utf-8
+
+niejclkVzKXIJgogFVdHynDayvRPfZfqOZUBbGUSoKEAmNkeHlPBPvdtKfJqHGQXPR

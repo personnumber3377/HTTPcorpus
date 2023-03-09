@@ -1,0 +1,6 @@
+PUT /km HTTP/1.1
+Host: S
+Range: bytes=25:33, bytes=36:39
+Content-Type: application/x-www-form-urlencoded
+
+DPUSOxnIRjPyKWzylpxaDFpljmNqITezHXthZlQIpYS

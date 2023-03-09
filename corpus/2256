@@ -1,0 +1,5 @@
+GET /ze?e=Ta&Ag=UR HTTP/1.1
+Host: C
+Upgrade: foo/2
+
+f

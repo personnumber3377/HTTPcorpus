@@ -1,0 +1,7 @@
+GET /r.bin?Y=Ru HTTP/1.1
+Host: no-cache
+A-IM: feed
+Content-Encoding: deflate
+Range: en.wikipedia.org
+
+IUPHrworhUCFGBnBwxMAEFBrGZEpSXnFQEDSsrscVnRUuqsEIzviIBCsvcx

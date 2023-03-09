@@ -1,0 +1,5 @@
+GET /b?r=j&NC=C HTTP/1.1
+Host: Z
+Referer: http://127.0.0.1:8080/a?q=124214221214
+
+yHMDlYgcfhskzxDoqHZEiiKuCndWVri

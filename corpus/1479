@@ -1,0 +1,7 @@
+POST /w.pdf?h=WL HTTP/1.1
+Host: E
+Content-Encoding: gzip
+A-IM: gdiff
+Trailer: header-names
+
+DifPdoKoVZaGfgPaPyHtoCSfUnXvOgSUgkRiRLtlfJlPdaOkCIIfNtOkXIdFCskxFcvEejbfWPQFgYYbfRCKOtpxsoeHNlYYoGuAtxZdgLSVEIXSSsJThEaSbEoCIXmJUPvUTgQQXKUnPWJwdQHSGFiLJkOrgRvKDGPuMoBblcZAYYUXs

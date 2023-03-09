@@ -1,0 +1,7 @@
+PUT /cp HTTP/1.1
+Host: i
+Range: bytes=96:96, bytes=96:96
+Content-Type: application/x-bcpio
+A-IM: vcdiff
+
+UIrPpkxWuOvSpUQGeVXhhiIvJVtfqpUtBXvKNxAhuxYMsQjRDocIUssGPlixrbexLjnUiUhVhjbLlaVRkJAdrAMSeApkavNRD

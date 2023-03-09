@@ -1,0 +1,7 @@
+PUT /w?N=k HTTP/1.1
+Host: z
+Expect: 100-continue
+Referer: http://127.0.0.1:8080/a?q=124214221214
+Accept-Charset: iso-8859-5
+
+XKuY

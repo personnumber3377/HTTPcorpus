@@ -1,0 +1,6 @@
+PUT /cp HTTP/1.1
+Host: R
+From: a@b.com
+Trailer: header-names
+
+afxobqdNqKmgfgYjIIpdvxGQdRPXdpkZXvZAXRQZIQCyRbgSMzlYYItWBwUxTftAThAHHcTBvAtCn

@@ -1,0 +1,7 @@
+POST /rq?Ea=s HTTP/1.1
+Host: I
+Content-Length: 40
+Content-Encoding: br
+Trailer: header-names
+
+AfXwABnXBOLXxLMSaYSOlcdyejZCBvYBGXHYrwPj

@@ -1,0 +1,7 @@
+GET /uk?L=B HTTP/1.1
+Host: no-cache
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept-Language: gu
+Accept-Language: yo
+
+LyrIVLTcVlLHNV

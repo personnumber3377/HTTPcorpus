@@ -1,0 +1,7 @@
+PUT /ns?t=R HTTP/1.1
+Host: B
+Content-MD5: +UV/E8DKmKK5g+Q1GdGKbQ==
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Expect: 100-continue
+
+hZLrMmmCyGhePHgvLjtPI

@@ -1,0 +1,6 @@
+GET /cp?p=Tx HTTP/1.1
+Host: D
+From: a@b.com
+Connection: close
+
+TCgCSFkkuuefOESzEGwBiUxNzUitNChTbqKlQaYqSfItJFhVAVBwBRAZaOx

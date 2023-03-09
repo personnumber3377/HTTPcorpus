@@ -1,0 +1,5 @@
+GET /r.bin HTTP/1.1
+Host: O
+Expect: 100-continue
+
+cFtXVOvVoAAQwjRgGHdAYdRXjxziGoCXBGxHBUXMEnmHHnLWhZohYSkWtOvzlzcaOXYQfYXXdxroQOgXtyUqpsYZkxoIhyjSHaDrtDqFfDuRkDRqFDheVYFklFrNhaeucQYslbCRUZnaMVWyJzhslaaujhRvQQBMOhsnuZJJPcBtzzmzyPS

@@ -1,0 +1,7 @@
+GET /il HTTP/1.1
+Host: G
+Accept-Encoding: br
+Accept: application/vnd.dece.zip, audio/xm, application/vnd.yamaha.smaf-phrase
+Content-Length: 38
+
+BVqkLSBsUDKNARssOtDcdNYCQmkyafDcWbHplh

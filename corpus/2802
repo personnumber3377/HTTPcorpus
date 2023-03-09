@@ -1,0 +1,6 @@
+PUT /index.html?K=H HTTP/1.1
+Host: F
+Access-Control-Request-Method: GET
+Accept-Encoding: br, deflate, compress, gzip
+
+dMzNtmCyJjRavBMKIlmFOoAlpVwkxQxIBsGCDyaPPdaLZGyoRUDAyQtYnSFtOSgZLlmEFxlbqvADSlWWbTgKYeVYzVXlFtENnpgSomaaZeUwltSOHjn

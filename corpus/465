@@ -1,0 +1,5 @@
+POST /b.pdf?I=d HTTP/1.1
+Host: B
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+oBHKBswoVexPhNvfJaPHBqCIlIBavjqsJhOACpoOGBKluoTMNtUQetYbUNfZrVVzZrfPNrPFcDRaIljEoWTFrdOGPKmSTNAOygEovrnfseuIDbdoQnPPgdypW

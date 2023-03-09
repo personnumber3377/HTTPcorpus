@@ -1,0 +1,7 @@
+POST /t?HF=Sa HTTP/1.1
+Host: C
+From: a@b.com
+Accept-Language: prs
+Access-Control-Request-Method: POST
+
+JqOTLacRlKgiEQhDLuMACHEyHztnHYRwxoMwyTlWKKRWKdJOWimodLaxTntxsisKJyJhChJUTdpogidDLJJFaXEiJDNntCrFVkHzkxETgAn

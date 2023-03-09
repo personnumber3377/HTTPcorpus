@@ -1,0 +1,7 @@
+GET /oq HTTP/1.1
+Host: J
+Expect: 100-continue
+Referer: http://127.0.0.1:8080/a?q=124214221214
+Content-Type: video/x-mng
+
+VQJIdOqVSwpvcNpbHpcwofxCgSjWvFHnmnretlhMOlepNvGPNXMVVmYZYZWKSvDFmmHvFGnbtUHjrKdQzQpQDaXDYGJuPGAyHQobESQVdsUQpeIJtwukcdKdjhFkSzsADkKdRZXVoUJlrFEKtDAJElKFXdOjPhdFUZhuNxzEtPOKZWarEZdEjhorFmETveTBja

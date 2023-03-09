@@ -1,0 +1,7 @@
+POST /qo HTTP/1.1
+Host: p
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept-Encoding: gzip
+Range: bytes=72:156
+
+cSHKmHTLDMEkMgLHEhPxZkPdxkbnKMTOBhhoFiTxXtClMMginlDLAMkWRwUmTdjHfZwdpzucEMLkhUucbDiEZTKeisaaCFcYSBdKWcZgIfFxaeSPHknZjhtKMyZCSRtuqzUHnPIwNHfOesSAkiFHjVXtVdFLPJSaxOpQPIQHhnYcGBcg

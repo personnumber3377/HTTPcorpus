@@ -1,0 +1,7 @@
+GET /ns?x=d&A=Eh HTTP/1.1
+Host: r
+Access-Control-Request-Method: GET
+Content-Type: application/vnd.sun.xml.impress
+Connection: close
+
+ZkFKIWfUrNBoluGHNLXeVlFtRnyPDdsMUebCbTfTqxXDuCpGnSVZRTqvaLiKOfYgwvKKRAoJxlrAZPzBnOVYOWGWgxmfnZMxDIaHKbtghBoznNiWVptUSOyyHuULgTJVMWiVVeGDNVhccHKhHfNxHSSuiKxo

@@ -1,0 +1,6 @@
+POST /ix HTTP/1.1
+Host: x
+TE: gzip, deflate
+Range: bytes=43:66
+
+RcXvpbBpDfUYGcYrObIBPFsFGfnpkcktirgVLTDrLnfzuyFlrrtaqqvZJqVbfcMIyYiHwTuKYqweZsXVnlowgagFNPggvFG

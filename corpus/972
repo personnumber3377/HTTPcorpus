@@ -1,0 +1,5 @@
+GET /il?P=y HTTP/1.1
+Host: Y
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+sdapGoxJYbSayYZiKvwbOeGkHqIzMzRTruUxGSaulQFwAgbQwjkMDLpmBdDgbrHsyzhXnhXqeROMWhYslDlbmdEPzVidGcqnpnABVcdLrUwfDmTbjeeKxUtqIv

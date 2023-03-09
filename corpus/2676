@@ -1,0 +1,6 @@
+PUT /j.png?c=X&dt=DU HTTP/1.1
+Host: o
+Accept-Datetime: Sun, 19 Jun 1988 02:59:21 GMT
+Referer: en.wikipedia.org:8080
+
+mApdtwlu

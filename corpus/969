@@ -1,0 +1,7 @@
+GET /sl?v=h HTTP/1.1
+Host: k
+Content-Length: 1
+Expect: 100-continue
+Accept-Encoding: compress, br
+
+j

@@ -1,0 +1,6 @@
+PUT /b.png HTTP/1.1
+Host: K
+Content-MD5: kvtmbC/7ofiI98jIkS6bWA==
+Accept: application/vnd.yamaha.openscoreformat
+
+TAgKassqDmDBCwTwFQoWCvBYUpybipSZHSlSoMCCEBLvkNgdnFjnnkNOyIkyYzwNrVIvpBnHTHnpZRUjcHUsfNagOyHwuuCRjesxMJfSNzrcdlaDSTU

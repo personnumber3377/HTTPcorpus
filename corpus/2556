@@ -1,0 +1,5 @@
+GET /kc?SN=s&P=G HTTP/1.1
+Host: H
+Accept-Charset: iso-8859-5
+
+DKLJmNmGtmWmKYiislgUZnwNWrpGlgHkEuCsnPbNSCxIBPbuMdxZmymZYkCXaSUqtXnSTTdvnFWsWh

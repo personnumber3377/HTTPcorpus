@@ -1,0 +1,7 @@
+PUT /gg HTTP/1.1
+Host: Z
+Trailer: header-names
+Access-Control-Request-Method: GET
+Content-Length: 98
+
+oKxJoVUPkHoErwjkZCOnMBOSTEGEjoAzyFYUusAKDtqEYoccifNqhQinqtKfKkjxtWnnEcSjMqluEKgDlFSehEUEEzkoWkQhVw

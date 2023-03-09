@@ -1,0 +1,7 @@
+PUT /je?ct=M HTTP/1.1
+Host: n
+Content-Length: 195
+A-IM: gdiff
+TE: deflate
+
+eVWvvAUhuJMwYRmUrukwNhhHTxaPPbzOGxZLGZhOGBwHJYYPkLWWeGeWZXWsZKWVqkrPwarUkAMmVhBfJntbpBAiHfOoiGUmBpBxVEWQYoxQLwFAhlAuQQeGPLVKsAKxNfbvZmBunEcKzXXAeDenEakaZjHQCXtmcfAwUvDrYIBrCpZGAeubqwSgAJpMYRaasZV

@@ -1,0 +1,7 @@
+PUT /xv HTTP/1.1
+Host: j
+Host: J
+Upgrade: foo/2
+Accept-Charset: iso-8859-5
+
+OhoEeH

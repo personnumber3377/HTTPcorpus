@@ -1,0 +1,6 @@
+POST /sw.txt HTTP/1.1
+Host: T
+TE: trailers, compress
+Accept: text/n3, application/vnd.stardivision.math
+
+FRDwsWtlPqrsrmVPzwhmIpxhMbYGQAyFauEv

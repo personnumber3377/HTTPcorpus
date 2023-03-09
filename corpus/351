@@ -1,0 +1,7 @@
+PUT /em.png?u=TB&lS=G HTTP/1.1
+Host: I
+Content-Type: application/vnd.iccprofile
+Trailer: header-names
+Content-Length: 187
+
+FrbOQjUwFGiFFCIMLZoMeQenDlUpnyeWpVWFdMnTYLNLPMEgtjzMtjVFQERBMzwypEyhcIoLIWoIvMIguiigNvmzHjuQvzyWXpdohXUTksHgbaEZFCLBddwBgwmwzQIGHusATggEEgSfInlqzLbzwjGZIUMPLHaTtWVjETxAgsGTdQpKJsoDoKJFEtE

@@ -1,0 +1,6 @@
+PUT /vi.html HTTP/1.1
+Host: p
+Referer: http://127.0.0.1:8080/a?q=124214221214
+Content-Encoding: deflate
+
+KNlpTkkImQHjCeTWxUsBherzRSrZUKYIOPgIRFXpPgwepioPyHOHrQieUuGMBxThrFivXeFKVRfHFrXsbtextBIlPoPOmfKnDdkFXRWegTujTOYKSWlniCdIUbpwucnFnRExQESirxTkgtTUscRdKyNPCImffzasRyagLunsQvfegHJSdogAVbgkWS

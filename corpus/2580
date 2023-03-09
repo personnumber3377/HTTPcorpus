@@ -1,0 +1,7 @@
+PUT /a?f=IJ HTTP/1.1
+Host: G
+Content-Type: application/vnd.ibm.rights-management
+Content-MD5: Q2hlY2sgSW50ZWdyaXR5IQ==
+Trailer: header-names
+
+uogDyziCjIqamOJBBBYukGOPA

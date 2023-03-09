@@ -1,0 +1,7 @@
+GET /je HTTP/1.1
+Host: B
+From: a@b.com
+Content-Encoding: gzip
+A-IM: feed, gdiff
+
+EJGjbrfetxKVOQKHFvhOrqqwAcBZ

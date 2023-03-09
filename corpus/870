@@ -1,0 +1,7 @@
+PUT /gg?Vd=x&fU=Wm HTTP/1.1
+Host: Y
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: Upgrade 
+
+mHxYBsxqULNkAlMrbgRPxPmbOEfaqvwhBslXgQzTRrQFARuUAGKSuSatYhOMnQXkTgDcFFqZJVMJSYHEuJlkSkRVHYBmGQzUPpITPUToEFXppCMdUPDaZTzKseliQ

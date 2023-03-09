@@ -1,0 +1,7 @@
+PUT /c?R=G HTTP/1.1
+Host: z
+TE: gzip
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Trailer: header-names
+
+lavzqXXsfDiIvNPqmwMdNSzLJnFyLJVQMyEpxcLLEyjjadqBgbicxPNfAGjWffSVLrGemkj

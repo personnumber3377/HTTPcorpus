@@ -1,0 +1,5 @@
+PUT /r.txt HTTP/1.1
+Host: s
+Access-Control-Request-Method: PUT
+
+dYVLVMuFpmfDQPAqfXXtxxeaoiAOlYxcUTYoYYwdfpjGsdfUDkqabLBHEyDtazamWQgwaDlNjteLeYQgxxAmrmYRCEKugBnlxXwfELjticAPHpUaNyAlceYTJxQcudbFwcAljHDmUVBaMlHfaYw

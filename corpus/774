@@ -1,0 +1,7 @@
+POST /kc?qE=OL HTTP/1.1
+Host: X
+Host: B
+Trailer: header-names
+Expect: 100-continue
+
+TBRFlOlqKwxzGDlvzKldieNmIhXvSKtUeiDmaQYCObypCGyNAsJIxxNnE

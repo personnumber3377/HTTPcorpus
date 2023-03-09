@@ -1,0 +1,5 @@
+GET /ax HTTP/1.1
+Host: c
+Access-Control-Request-Method: PUT
+
+hsSCFTVbpTYrTzBqixPsFiNhUyztpCbtWXaZcTqgMQdyPkexqOymSlHbdauzMohGTSAn

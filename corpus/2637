@@ -1,0 +1,7 @@
+POST /zi?T=ng HTTP/1.1
+Host: h
+Access-Control-Request-Headers: GET
+From: user@example.com
+Cookie: Am=Z;Jy=l;nq=S
+
+PZhPFMOcriNWJKxPI

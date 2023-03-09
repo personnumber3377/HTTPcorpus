@@ -1,0 +1,7 @@
+GET /v?pj=Uw&y=F HTTP/1.1
+Host: a
+Content-Type: application/vnd.ms-powerpoint
+Range: bytes=195:195, bytes=196:197
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+CcOimsRshLIfhbKmYKEAUGKVnToxpMXrTHpgNjItdLEWNQOwnsKnoRenVVVvRXxNmHSBuWvuGBprYiyrlgtHJvGImqcpTfGRJSgvfHGZExlQaRsXAhmunsCuQbkltrzbVqIPNvioBeCjRiKyIwcRvfKzOQsAEzdBdeUDFLVUiUfCnecxchGaaAFETWXdaOtzMlpbNf

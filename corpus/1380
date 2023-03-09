@@ -1,0 +1,6 @@
+PUT /uk HTTP/1.1
+Host: R
+Content-Type: application/vnd.dvb.service
+Access-Control-Request-Method: GET
+
+HUWGnJEvRqcOUnCHoOTyZrkfEYcjUwnSiApLIoQqsXocUtiDkazSIpYbAxaVHGKOlLlmhaXYeapTfzoIOGeTOLzQWUixxwbKFeDqJBSygHphCoBhKIpVjQcrehHspomFwbAMVAwshMOvVXoBRjTwpHIfbrtFxkDvAnefHpHQgPYRofjgaynFHSbHAXyNI

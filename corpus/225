@@ -1,0 +1,7 @@
+PUT /h HTTP/1.1
+Host: k
+Accept: video/vnd.fvt, application/pkix-cert, application/vnd.las.las+xml
+Access-Control-Request-Method: GET
+Content-Length: 42
+
+LABAWRdIYJlgegubTINFSJhKscdEXOsgWeahItpUUx

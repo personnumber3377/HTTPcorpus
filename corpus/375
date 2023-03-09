@@ -1,0 +1,6 @@
+GET /x?Y=YC HTTP/1.1
+Host: H
+Range: bytes=7:14
+A-IM: feed
+
+vrGGTgUlwjIKboagdAOKsUb

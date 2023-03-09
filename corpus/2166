@@ -1,0 +1,6 @@
+POST /u HTTP/1.1
+Host: j
+Proxy-Authorization: token64
+Accept-Datetime: Sat, 01 Mar 1997 23:37:55 GMT
+
+YevsbIigMUiDOGOYRuCTQNJTUjENXECnxwUORQiuay

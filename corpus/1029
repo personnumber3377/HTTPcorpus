@@ -1,0 +1,7 @@
+PUT /b.png?c=g HTTP/1.1
+Host: v
+Proxy-Authorization: token64
+Trailer: header-names
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+xfqHQAXbUuAUtvEMwNSbQFOPQIjPrJSHruWvnMoKtbMoaEHPvonQvTsVwpltuclzfyMXvndLXEQumrayQFyihRlMuAdrdGGvRllyIXJAfBMIuCfbblqWXClFWpFAlwyCIDgQZdeNjXGAeZTkKurLzkOdKbURUEeYdypZemzXPPPCrCXaVPwXLQMNdpn

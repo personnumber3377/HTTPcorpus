@@ -1,0 +1,6 @@
+GET /kn?n=Ao&J=g HTTP/1.1
+Host: W
+Accept-Encoding: gzip, compress
+Trailer: header-names
+
+pcHHjfZmZafrtGDvphocjBOPOCuymtQSUdkLsjBqbRKeZfRjIXTuDxpPrNmyOsJIhbvuCblKIOrZbewNVNbJZMxgmFJnstPewAYTWyrQOYDbVnSoDdLmyvJHzNEB

@@ -1,0 +1,7 @@
+GET /km?X=Ws&L=An HTTP/1.1
+Host: m
+From: a@b.com
+A-IM: gdiff
+Accept-Charset: iso-8859-5
+
+qrGppBlxIZyRKQmoKwRlFqvYlcJrbmZPyasdJiJasXsmGEPcBrGGRReMMgzJoPBFzEmJgoSb

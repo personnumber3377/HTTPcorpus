@@ -1,0 +1,7 @@
+POST /p HTTP/1.1
+Host: m
+Date: Tue, 15 Nov 1994 08:12:31 GMT
+Content-Length: 82
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+rvyGLmVkbfKtsXFBGaNXIpbhgwzpOLPHZgfXkvqmxCPmnaFQPhYqeKqtzBpkkZvFhnIzsOpmKpsuKqQEuD

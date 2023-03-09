@@ -1,0 +1,7 @@
+GET /kn?k=ju HTTP/1.1
+Host: S
+Range: bytes=70:70, bytes=80:90
+Access-Control-Request-Headers: A-IM, Accept, Accept-Charset, Accept-Datetime, Accept-Encoding, Accept-Language, Access-Control-Request-Headers, Access-Control-Request-Method, Authorization, Cache-Control, Connection, Content-Encoding, Content-Length, Content-MD5, Content-Type, Cookie, Date, Expect, Forwarded, From, Proxy-Authorization, Range, Referer, TE, Trailer, Transfer-Encoding, Upgrade, User-Agent, Via, Warning, Host
+TE: "737060cd8c284d8af7ad3082f209582d"
+
+XdhNWmnKRyKVLFuoGGDZkdrlttkLVVykfwGfrtNsDlCYHZooiUlgOIXvhpheGfqUEqKPlmtSxdbbVGQqdiHePTpuPWvtVIYps

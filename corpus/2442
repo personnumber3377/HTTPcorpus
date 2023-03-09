@@ -1,0 +1,7 @@
+PUT /ub.pdf?Zo=q HTTP/1.1
+Host: P
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Content-Type: application/vnd.lotus-organizer
+Expect: 100-continue
+
+ilCuKGpyVsEgeRtERQYspMPqwuvQzIKdIalIEgcbEXbGSHZrjUiyKZLMMZBvTnYDRaBBxIOPnzAIKITZVMeFSLuKzxqNcohCKlvDEYrtPxjzFDWqosofRQAjltDGpExktlUjSKfJnzSsSHtqaSDDNrolyyPHEHXRVnDoPZNfbWDtzoBolvRHWpgqGeLWCKGMr

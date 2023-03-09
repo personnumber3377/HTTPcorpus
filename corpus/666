@@ -1,0 +1,6 @@
+PUT /t?w=TL HTTP/1.1
+Host: H
+Accept: text/x-pascal, application/cdmi-object
+Accept-Encoding: identity, compress, deflate
+
+ckGoaRBIEpNPJsRIznjcOXClALnPVcEXMKeDWtIrWKPNdRxzYAifPNmnQezQWBpelzHGVZWeWvZOBWyoupxkGGCAWlUkCMxnWcEKsVvbeRlvrYLTfVdzjPCtzMXYVyYfgglIzBDBjOllaSvtxDmSazZjmneo

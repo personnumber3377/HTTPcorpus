@@ -1,0 +1,7 @@
+POST /w.pdf?Y=vY HTTP/1.1
+Host: u
+Cookie: hP=S
+Connection: close
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+ZHvlqptyPGDeUeIENSvUzhapbyIVJRJokpJVcVUzdoeOhaOrWfRzUMtOwBpEHSsFcTni

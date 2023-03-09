@@ -1,0 +1,5 @@
+PUT /gg HTTP/1.1
+Host: p
+Expect: 100-continue
+
+dH

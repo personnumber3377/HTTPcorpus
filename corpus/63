@@ -1,0 +1,3 @@
+PROPFIND sip://127.0.0.1:8080/?r=A#V HTTP/0.9
+
+

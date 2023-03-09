@@ -1,0 +1,7 @@
+POST /w?JO=C HTTP/1.1
+Host: v
+Upgrade: foo/2
+Accept-Language: es
+Content-Type: application/scvp-vp-response
+
+EjojyMEQCEWqggDppsLXIUifXoOyHz

@@ -1,0 +1,5 @@
+GET /g HTTP/1.1
+Host: i
+A-IM: feed
+
+Djf

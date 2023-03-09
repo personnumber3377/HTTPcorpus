@@ -1,0 +1,6 @@
+POST /b.pdf?n=A&Ny=M HTTP/1.1
+Host: y
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+A-IM: feed
+
+GkRUtncptUSssEtcgrw

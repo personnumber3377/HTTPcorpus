@@ -1,0 +1,5 @@
+GET /vs.html?R=r HTTP/1.1
+Host: F
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+PtcmvqSwKUFtcUrLcPeIlfgmWojAjdNMfioIWWwXeuCFmSPPhcXZDwvnkeiFIGyyfiMtLtwaDahpCuIZLVCNZTKKDvVFYKvwKRIGFnSmzUxQxPoYIBvfUuRxSCpsIhXMfvdJeayocAfFHpdyIEDWxlvGRBcpgiXmYvNOvOIsmpkFaIcbVHtbkrIrTDJQrosTCRAp

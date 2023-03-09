@@ -1,0 +1,6 @@
+PUT /vs.html?Ss=y HTTP/1.1
+Host: m
+Content-Type: application/vnd.zzazz.deck+xml
+Connection: close
+
+vASknIZkKEdUefZKBpcRmBaQtWWQPSDhRfnVWZOeDnMwpkOyTBIhiwvIJwtfUZSjHkiszCOLLxvZdTkvXrZcQPTxNkihMEwxMtQVHPaD

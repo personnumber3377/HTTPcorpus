@@ -1,0 +1,5 @@
+GET /bc HTTP/1.1
+Host: J
+Content-Type: application/x-pkcs7-certreqresp
+
+wycUxFMdCbuGoFtlHsFaXqXJoNxtypdKtUxZPiqplQZuAmBbqxxjOANGnbsVPgeFApvAuOyRCjRkCwPDRbRJyFQYvlfjqWRpzGQBjtOmbHADPaqBVYSyYsGiWupHzkebqjRMdkTJXjHbYXPkHBrSKZQpHdAJEkWXOihKWnWCzPRPrJobcyUMvXodwDbXufTGpXzjOW

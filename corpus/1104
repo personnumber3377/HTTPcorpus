@@ -1,0 +1,6 @@
+PUT /r.bin HTTP/1.1
+Host: x
+Referer: http://127.0.0.1:8080/a?q=124214221214
+User-Agent: Sat, 29 Oct 1994 19:43:31 GMT
+
+ZwGYeQcuHjceTQIqEZxxXKzCJUmzGBEiCZDkSeSMNUwFEGkaMXnJXwuYBMTMgBmkfyZNopZhFIsZAnUXyBtKoyHaLKdrbmKlnhuXeVpJaRVuTqEkzuzsmqoftzeObPumvwFvYaSmCjihGJkwFxoVQTVjFxCHNKPLAMjcqT

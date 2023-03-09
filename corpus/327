@@ -1,0 +1,7 @@
+PUT /u?D=bH HTTP/1.1
+Host: no-cache
+Accept-Encoding: deflate, br, gzip, compress
+Range: bytes=7:32, bytes=39:41
+Accept-Charset: iso-8859-5
+
+rONgYywgJmjZQhQaYDtStBocFSyetvlSGLKOJMDaZErrOlpRueJsiQgBosiA

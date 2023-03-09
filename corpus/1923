@@ -1,0 +1,6 @@
+PUT /e.pdf HTTP/1.1
+Host: s
+A-IM: vcdiff, feed
+TE: compress
+
+qnTREnJViweSAWtieY

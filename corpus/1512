@@ -1,0 +1,6 @@
+GET /oh?SZ=o&g=A HTTP/1.1
+Host: a
+Access-Control-Request-Method: POST
+Range: bytes=12:23
+
+CgCsQtQAPYSnryXaUIrTbOwAslDQMGLRfG

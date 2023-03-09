@@ -1,0 +1,7 @@
+POST /ax HTTP/1.1
+Host: A
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept-Charset: iso-8859-5
+Content-Length: 348
+
+KfUotPysiQgKTHEcQmieWbXSnxdaHflwXGagnUFMfiLTRVOOQWrUcARgAjfbnwhFJPSWFBHlFvDDXWuwVCePgrESiHKiVvkGEnmzRfvDHQyWCCJiEdXCEpArdONQoBFBTSUilZrdqclM

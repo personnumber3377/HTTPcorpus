@@ -1,0 +1,7 @@
+GET /il.pdf HTTP/1.1
+Host: j
+Accept: application/vnd.fujitsu.oasysprs, application/vnd.picsel
+A-IM: vcdiff
+Content-Encoding: identity
+
+YGZHGkMMYGRYRHUVOiUqDuKzviqDtRlSWbAfrWqFePDZRyBxbUbfNqGsIMPmcNrPWbMcyJJIiyvklyYqjtWOfMcuSaxOr

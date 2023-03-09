@@ -1,0 +1,7 @@
+PUT /qw.txt?wx=z&Jm=Hx HTTP/1.1
+Host: no-cache
+TE: "737060cd8c284d8af7ad3082f209582d"
+Content-Type: application/vnd.ibm.modcap
+Expect: 100-continue
+
+flheVysysDqLTgRkIiNOXIcyXsVXKOlwfZWglnKMrSOVDtWJGDolWRVgEtYCxRSVgSLtbxWwEmeeBCNIdGIhkTWGdrEwfohTPkZjSrk

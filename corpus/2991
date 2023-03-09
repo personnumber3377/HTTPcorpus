@@ -1,0 +1,7 @@
+GET /sw.txt HTTP/1.1
+Host: C
+From: a@b.com
+Cookie: O=n;M=MS
+Accept-Datetime: Fri, 30 Sep 2022 18:15:53 GMT
+
+RyFEMvLChacklioBkQFlkpKOrCtFjUxKVqlxLcPfciZYlqqgkNOzvegx

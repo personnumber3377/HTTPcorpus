@@ -1,0 +1,7 @@
+PUT /kn?a=W HTTP/1.1
+Host: O
+Trailer: header-names
+TE: gzip
+Upgrade: foo/2
+
+KDNWjMQEQOkkjtjJfzdSKrjjqgOgfiDTLuubnxSDWmtQegvDNhGsegvmnwjocBFFxqAqjoeoemmtglWuiPuPSF

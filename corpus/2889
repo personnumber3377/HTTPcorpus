@@ -1,0 +1,5 @@
+PUT /t HTTP/1.1
+Host: D
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+wETeIUenlYghMlnuRMSxbmhpldQIZIURxWcUVxuuhlpUgfgVDEEAysDAcjQwtogLUsEMCWucyWxTvecDyhbOp

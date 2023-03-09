@@ -1,0 +1,7 @@
+POST /bc HTTP/1.1
+Host: M
+Content-Length: 26
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept: application/x-sv4cpio, video/x-m4v, application/vnd.semf, application/cu-seeme
+
+PZfJgiZCjIPtAvTnrWuXJCYYWz

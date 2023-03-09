@@ -1,0 +1,6 @@
+PUT /b.png HTTP/1.1
+Host: no-cache
+Accept-Encoding: deflate, identity
+Content-MD5: HaWYUQCjTCpmACxQNm5Wdg==
+
+drvgSwcfuCqBJfBlbrGSqohTDDXvamxYWpsuVfoxiLJmaNlCLcbHRtmrhSZVgkuTvehZmVwXrLfMhkKWhFFlbokaFjlGKQWgsGIgcGHruAIwIqeYeyjAVLcmrVYEsoRAVRKOlbjDlpEaAHAuGtWpEMwDzGHRhOOFVVwrKMqygJBQF

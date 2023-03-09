@@ -1,0 +1,7 @@
+POST /em.png?d=G HTTP/1.1
+Host: I
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Access-Control-Request-Method: PUT
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+bOCyziOlVnABTgXnasZHzoNRMOeLDizAdkIHxdxWYSkkSriAQ

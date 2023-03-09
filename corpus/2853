@@ -1,0 +1,6 @@
+GET /cp?u=HQ&P=Sa HTTP/1.1
+Host: H
+Accept-Datetime: gzip, deflate
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+ovrFGVPrwmmVLjAqbAAnKBqZCohvMsMNmJjWqDBBeTRfbgsuWAEJsPCOTiazxjpbqDfnWKDjPDyjZTGVNmzdhMRCkcozWKaVnaxBvFZhZbTPdZVDCcdmZtKMLdImIqQekmZFjCajZyuBZdEEgoEusXCZWe

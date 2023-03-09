@@ -1,0 +1,6 @@
+PUT /se HTTP/1.1
+Host: w
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept-Datetime: Thu, 25 Mar 1982 14:56:22 GMT
+
+APHkFgGZtZVCBIVhknHpOkNTXOhTkaBSVKsvpAbPHpkaOXCkwPDTdcDUumFzOtFYvGMbRepWAWVXpZigmbLodq

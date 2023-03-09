@@ -1,0 +1,7 @@
+PUT /b?Sf=JS HTTP/1.1
+Host: Q
+Content-Encoding: compress
+Accept: utf-8
+Range: bytes=7:7, bytes=7:7
+
+MTqsFbkl

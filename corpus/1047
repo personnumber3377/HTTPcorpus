@@ -1,0 +1,6 @@
+PUT /t HTTP/1.1
+Host: no-cache
+Accept: application/vnd.oasis.opendocument.spreadsheet-template
+Expect: 100-continue
+
+mTTSreXcAGzJNLYQMfJfnTpSJQsIIkRPmDkBVBs

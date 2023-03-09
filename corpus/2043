@@ -1,0 +1,6 @@
+PUT /r.txt?o=b HTTP/1.1
+Host: M
+Referer: http://127.0.0.1:8080/a?q=124214221214
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+
+rYVgnCInbaPZHDJeHUEiFhlXPtdKaFmnzryurOALHZDFObhpYnKkjFcWCNBSknQIeHgRAoelcEeGtlZNEWKWDgtdbxzQLAgwYRdsieflOvdGrwtUHmXRizTZRWIczipHiRxmTZnVsFOhloKVVNlkzYycFQPtQpbxWmqQibbZmhGhMjuXvzgWortIkvohBzohYnscAZs

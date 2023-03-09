@@ -1,0 +1,7 @@
+PUT /vi.html?v=UU HTTP/1.1
+Host: C
+Cache-Control: no-cache
+Content-Encoding: gzip
+Trailer: header-names
+
+LJeFgzmGFKWFVXcLDalWqtRDPbQkKUVLLeVWElioTjMutzfnlReSipFZPTpWSSovdfdZcXeaXelirLlsiPGnQIAOUUylRUEZNnEEgRWmeBFHQoDRgsmzcoNiQiGhLTSszyVrQYZQKphDSnCNYpsUUmMNCvZQpIlPClJPdfUhMGvhDCTgZCCJaIZwPLEfquJgDaK

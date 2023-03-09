@@ -1,0 +1,6 @@
+GET /p.html?ax=u&iS=n HTTP/1.1
+Host: N
+Trailer: Sat, 29 Oct 1994 19:43:31 GMT
+Access-Control-Request-Method: POST
+
+BPWOEkrleIDvNLqpdhcDfcOiXOyBQYavRrbCxUcEleJscjZdwcPpBLHZZvOQisIurwBsdgnKHKdLZsDcNGaYmLncunQbmiWgKXFJwZvMcEIJghUFKJxypPmQAMmewHEBThDUBEeJKVvXgSqabUCQYaONYNEundCAi

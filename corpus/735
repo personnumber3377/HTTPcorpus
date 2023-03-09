@@ -1,0 +1,6 @@
+GET /i HTTP/1.1
+Host: z
+TE: deflate, chunked
+Access-Control-Request-Method: GET
+
+MTZQJDVorqJJKFqqRdskpdBpEvmDoTCXvCLoluvpEkGsuHLjgFhEmsjcwigNqiXVrzMgwgDIYMEvYOEVNYwCadNQWXFEcHAwROHgQBEcJTDvLEweGOGqjaNZogqEaYRgrMwXcaKYHUptddqRYcbKaqySaBnSSyybiNSrqBPhuucbIvMj

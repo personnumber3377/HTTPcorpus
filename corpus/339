@@ -1,0 +1,6 @@
+POST /qw.txt?a=p&RD=Hh HTTP/1.1
+Host: p
+Proxy-Authorization: token64
+Content-Encoding: identity
+
+LMhgIJAUNYLtZzNMVvUDqCgkHGoDClvlYMlirzygdWjbZEdlIqobBaFXSIDtKTcwLMqEjUapxptawgdZGxpLIViPUaVwdzWgHwFDNUqMuQYKsPBfPudDwxDcEyfEBRzpWdiRqmyOwghSIKutmnMbbpoxwFvYbDXIdJDsPdMSoqouoxcvAul

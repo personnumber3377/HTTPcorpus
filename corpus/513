@@ -1,0 +1,6 @@
+GET /se?IB=t&q=pY HTTP/1.1
+Host: M
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Access-Control-Request-Method: PUT
+
+MSIRsyZUctBchCYNPecoroUJTxYclYovdbPJMYNEsfHJyyJ

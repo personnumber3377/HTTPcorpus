@@ -1,0 +1,5 @@
+POST /p.html?B=X HTTP/1.1
+Host: S
+Proxy-Authorization: token64
+
+WExfpRXqaemthiERxqTqzUNlMcArOfYEfzqIAPleskOJuXYjKWHNnoGZblPPQWMahsbNWDfVYkAUZXaTabhTgySpVuNjqtkISImMLtIya

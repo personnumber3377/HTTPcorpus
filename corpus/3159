@@ -1,0 +1,7 @@
+PUT /jm HTTP/1.1
+Host: h
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Cache-Control: no-cache
+Content-Type: application/vnd.airzip.filesecure.azs
+
+ojwqgWZbyhQNNyIPOWLIVDKNCdlTQVJruIzDDTvVNUAVXIzaeFErQvoRfXwFBGpkACVWAtEmZdArecOnilPAUZsFVDGLnYxyooLnBIPrhmIhZgSaUozvjWcJhIGglOjblZeCORykTASOYl

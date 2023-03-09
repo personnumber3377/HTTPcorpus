@@ -1,0 +1,7 @@
+PUT /u HTTP/1.1
+Host: D
+Content-Length: 94
+TE: deflate
+Content-Type: application/x-www-form-urlencoded
+
+xPNnseBdyokIcxPDPxXraDjbzcHHKqzTTsyfmtxyLIoRPQPUMxRTwGjmrQxuSxqZUoQnqKvmMGSpwxEYXgEZbReqESfctq

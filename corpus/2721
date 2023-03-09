@@ -1,0 +1,6 @@
+PUT /kc?U=C HTTP/1.1
+Host: F
+Trailer: header-names
+A-IM: feed, gdiff
+
+eFqvDDtLfQyffRRMdnumcuLsLLTZzrQBxRYXhfEkGxGUUCBiktTrRMjLOwwpHaNpztqOTJGCXFvtXtkIpm

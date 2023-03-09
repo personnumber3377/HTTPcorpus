@@ -1,0 +1,7 @@
+POST /u HTTP/1.1
+Host: L
+Accept-Encoding: gzip, identity, br
+Expect: 100-continue
+A-IM: vcdiff
+
+xMQaTLQyzZTmmVbDvcVgMc

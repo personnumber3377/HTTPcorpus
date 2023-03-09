@@ -1,0 +1,7 @@
+POST /of HTTP/1.1
+Host: C
+Referer: en.wikipedia.org:8080
+Accept: application/vnd.tcpdump.pcap, application/gml+xml
+Content-MD5: mKfvdwYEbCRWohPUK5wyPA==
+
+hpMrwbvNLJfDtvOOlTNydNYAAqsypFXAOJgobudyoHsqUBRERgddTHMEapuyYzJMaKZBWsqLPqdfNJQbWrrJAxbnERWoStGQHNqkvUdBRWfHTDEOojBXEjffoUJHYOWuC

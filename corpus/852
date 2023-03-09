@@ -1,0 +1,7 @@
+GET /of HTTP/1.1
+Host: a
+Proxy-Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Authorization: Basic YWxhZGRpbjpvcGVuc2VzYW1l
+Accept: utf-8
+
+RSgglNjwIQNLBkAjNcxBSaTGaLNdOMGNyylonJnekaKsHZxcDowljUpZJGkpOMdORXlMXbdgMcxptTONLlFituwRqVfkCBNDYYZjtrONSQipPuUUSxlUabGBWLIUYRRsZRJNgbQMjbGCUyGxRXQXtmAggxvEgQVJpWIbotMpfYYbSDsfecIwTmhieUM
